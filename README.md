@@ -6,3 +6,10 @@ The total size of the argument and environment lists 15MB exceeds the operating 
 Try running the command again with fewer arguments.
 ```
 こういうのを回避するやつ
+
+
+## Usage
+
+```
+mcp -from /from/path -to /to/path
+```
