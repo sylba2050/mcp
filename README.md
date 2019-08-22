@@ -7,6 +7,11 @@ Try running the command again with fewer arguments.
 ```
 こういうのを回避するやつ
 
+## Install
+
+```
+go get github.com/sylba2050/mcp
+```
 
 ## Usage
 
